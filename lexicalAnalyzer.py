@@ -11,7 +11,7 @@ tokens = (
     'IDENTIFIER',
     'CONSTANT_FLOAT',
     'CONSTANT_INT',
-    'STRING_LITERAL',
+    'STRING_LITERAL', #coo
     'ARITH_OP',
     'LOGIC_OP',
     'RELATIONAL_OP',
